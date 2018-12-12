@@ -1,0 +1,4 @@
+language: C
+OS: windows
+script: 
+  - cmake ./
